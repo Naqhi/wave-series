@@ -232,9 +232,9 @@
   text-transform: capitalize;
   z-index: 9;
   font-size: 55px;
-  color:#3c5ae0;
+  color:rgb(12, 12, 12);
   letter-spacing: 5px;
-  font-family: 'RumleyMoonoutline';
+  font-family: 'RumleyMoon';
   border-width: 0px;
   margin: 0px;
   padding: 0px;
@@ -244,7 +244,6 @@
   transition: none 0s ease 0s;
   text-align: center;
   line-height: 0px;
-  font-weight: 800;
   white-space: normal;
   min-height: 0px;
   min-width: 480px;
@@ -256,16 +255,19 @@
  
 }
 .about-head p{
-  font-family: 'RumleyMoonoutline';
-  color:rgb(242, 229, 165);
-  font-size: 70px;
-  padding-left: 120px;
-  padding-top: 5px;
+  font-family: 'RumleyMoon';
+  /* color:rgb(176, 0, 97); */
+  font-size: 60px;
+  padding-left: 330px;
+  padding-top: 20px;
+  /* font-weight: 400; */
 
 
 }
 .dont-head{
   margin-right: -33%;
+  /* font-weight: 400; */
+  font-size: 60px;
 }
 .design-dreams{
   margin-bottom: 32px;
@@ -273,13 +275,7 @@
   bottom: 12px;
   left: 29px;
 }
-.we{
-  font-size: 180px;
-  font-family: 'RumleyMoon';
-  color: rgb(73, 103, 238);
-  font-weight: 100;
-  padding-left: 40px;
-}
+ 
 
 .about-head2 {
   font-size: 20px;
@@ -459,12 +455,13 @@
 }
 .about-us{
   font-size: 20px;
-  padding: 40px 30px;
+  padding: 80px 50px;
 }
 .about-us p{
   /* padding: 20px; */
   margin: 20px 0px 0px;
-    color: rgb(250, 244, 244);
+  font-family:'Times New Roman', Times, serif;
+    color: rgb(5, 5, 5);
     text-align: justify;
     font-weight: 400;
 }
