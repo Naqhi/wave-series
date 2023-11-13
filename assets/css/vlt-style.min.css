@@ -1204,7 +1204,7 @@ table tr th {
 .vlt-default-navigation .sf-menu>li>a {
     line-height: 1;
     padding: 32px 13px;
-    color: #715a7f;
+    color: #0a0a0a;
     font-family: Modak;
 }
 
@@ -1392,7 +1392,7 @@ table tr th {
     line-height: 1;
     display: inline-block;
     padding: 12px 0;
-    color: #715a7f;
+    color: #fefcff;
 
 }
 
@@ -6871,7 +6871,7 @@ vlt-section-title
       
 }
 .vlt-section-title-1 span{
-    color:#0072b4;
+    color: #3797c7;
     display: block;
     
 }
@@ -6898,7 +6898,7 @@ vlt-section-title
 }
 
 .vlt-section-title-2 span{
-    color: rgb(199, 255, 114);
+    color: #3797c7;
 
 }
 
@@ -6922,13 +6922,13 @@ vlt-section-title
 }
 
 .vlt-section-title-3 span{
-    color: #0ce9fd;
+    color: #3797c7;
 }
 
 
 .vlt-section-title p {
     margin: 20px 0 0;
-    color: white;
+    color: rgb(6, 6, 6);
 }
 
 @media (min-width:768px) {
@@ -7016,7 +7016,7 @@ vlt-section-title
 .vlt-services__title {
     font-size: 24px;
     margin: 0;
-    color: white;
+    color: rgb(9, 9, 9);
 }
 
 .vlt-is--lowercase-mode .vlt-services__title {
@@ -7030,7 +7030,7 @@ vlt-section-title
 .vlt-services__text {
     font-size: 16px;
     margin: 12px 0 0;
-    color: rgb(247, 245, 245);
+    color: rgb(8, 8, 8);
     font-weight: 400;
 }
 
